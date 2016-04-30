@@ -1,3 +1,7 @@
+# mod byrobisys
+[![Build Status](https://travis-ci.org/robisys/mio.svg?branch=master)](https://travis-ci.org/robisys/mio)
+
+
 # MIO - Metal IO
 
 MIO is a lightweight IO library for Rust with a focus on adding as
